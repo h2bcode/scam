@@ -3,7 +3,7 @@
 
 ____
 1) Настроить файл `_config.php`
-  1) **botToken** - токен бота от @BotFather
+  1) *botToken** - токен бота от @BotFather
   2)**botLogin** - логин бота без @
   3)**prjName** - имя проекта 
   5)**linkChat** - ссылка на чат воркеров
